@@ -12,6 +12,6 @@
 
    Create a more in-depth analysis of UFO sightings by allowing users to filter for muliple criteria at once. Adding a table to filter through the date, city, state, country, shape, duration, and comments. 
 
-![This is an image](https://github.com/Stookhy/Mission-to-Mars/blob/main/News.png?raw=true)
+![This is an image](https://github.com/Stookhy/Plotly_Biodiversity/blob/main/Top%2010%20Bacteria%20Cultures%20Found.png?raw=true)
 ![This is an image](https://github.com/Stookhy/Mission-to-Mars/blob/main/News.png?raw=true)
 ![This is an image](https://github.com/Stookhy/Mission-to-Mars/blob/main/News.png?raw=true)
