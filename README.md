@@ -10,8 +10,8 @@
  
 ## Purpose
 
-   Create a more in-depth analysis of UFO sightings by allowing users to filter for muliple criteria at once. Adding a table to filter through the date, city, state, country, shape, duration, and comments. 
+   Create a panel for demographic information and visualize the bacterial data for each volunteer. Specifically, volunteers should be able to identify the top 10 bacterial species in their belly buttons.
 
 ![This is an image](https://github.com/Stookhy/Plotly_Biodiversity/blob/main/Top%2010%20Bacteria%20Cultures%20Found.png?raw=true)
 ![This is an image](https://github.com/Stookhy/Plotly_Biodiversity/blob/main/Belly%20Button%20Washing%20Frequency.png?raw=true)
-![This is an image](https://github.com/Stookhy/Mission-to-Mars/blob/main/News.png?raw=true)
+![This is an image](https://github.com/Stookhy/Plotly_Biodiversity/blob/main/Bacteria%20Cultures%20Per%20Sample.png?raw=true)
